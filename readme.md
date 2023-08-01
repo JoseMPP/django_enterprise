@@ -1,0 +1,1 @@
+Django Project for the book Becoming a Django Enterprise Developer
